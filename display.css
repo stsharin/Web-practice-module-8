@@ -1,0 +1,15 @@
+.room{
+    width: 400px;
+    height: 150px;
+    border: 3px solid seagreen;
+    margin: 10px;
+}
+h1{
+    background-color: lightgreen;
+}
+li{
+    display: inline;
+}
+a{
+    display: block;
+}
